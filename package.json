@@ -1,7 +1,7 @@
 {
-  "name": "projectmanagement",
+  "name": "twittube",
   "version": "1.0.0",
-  "description": "a project management web app which have some basic functionalities",
+  "description": "backend project for twittube",
   "main": "index.js",
   "type": "module",
   "scripts": {
